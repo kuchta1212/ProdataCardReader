@@ -1,0 +1,5 @@
+D:\PRODATA\CardReader\Smartcard_API\GemCard\bin\x86\Release\GemCard.dll
+D:\PRODATA\CardReader\Smartcard_API\GemCard\bin\x86\Release\Interop.GemCardExLib.dll
+D:\PRODATA\CardReader\Smartcard_API\GemCard\bin\x86\Release\Interop.SCARDSSPLib.dll
+D:\PRODATA\CardReader\Smartcard_API\GemCard\obj\x86\Release\GemCard.csproj.ResolveComReference.cache
+D:\PRODATA\CardReader\Smartcard_API\GemCard\obj\x86\Release\GemCard.dll

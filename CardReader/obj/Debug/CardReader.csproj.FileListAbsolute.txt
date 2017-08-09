@@ -1,0 +1,13 @@
+D:\PRODATA\CardReader\Smartcard_API\CardReader\bin\Debug\CardReader.exe.config
+D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Debug\CardReader.csprojResolveAssemblyReference.cache
+D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Debug\CardReader.CardReaderForm.resources
+D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Debug\CardReader.Properties.Resources.resources
+D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Debug\CardReader.csproj.GenerateResource.Cache
+D:\PRODATA\CardReader\Smartcard_API\CardReader\bin\Debug\CardReader.exe
+D:\PRODATA\CardReader\Smartcard_API\CardReader\bin\Debug\CardReader.pdb
+D:\PRODATA\CardReader\Smartcard_API\CardReader\bin\Debug\GemCard.dll
+D:\PRODATA\CardReader\Smartcard_API\CardReader\bin\Debug\Interop.SCARDSSPLib.dll
+D:\PRODATA\CardReader\Smartcard_API\CardReader\bin\Debug\Interop.GemCardExLib.dll
+D:\PRODATA\CardReader\Smartcard_API\CardReader\bin\Debug\GemCard.pdb
+D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Debug\CardReader.exe
+D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Debug\CardReader.pdb

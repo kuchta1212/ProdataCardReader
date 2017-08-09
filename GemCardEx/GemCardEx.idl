@@ -1,0 +1,37 @@
+// GemCardEx.idl : IDL source for GemCardEx
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (GemCardEx.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(FF1B206D-D909-4B7D-B82F-D7D6549815E3),
+	dual,
+	nonextensible,
+	helpstring("ISCardDatabaseEx Interface"),
+	pointer_default(unique)
+]
+interface ISCardDatabaseEx : IDispatch{
+	[id(1), helpstring("method ListReaders")] HRESULT ListReaders([out,retval] VARIANT* ppReaders);
+};
+[
+	uuid(F1FF634B-BEDF-461C-A409-5B88E05F5117),
+	version(1.0),
+	helpstring("GemCardEx 1.0 Type Library")
+]
+library GemCardExLib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(CF6EC0CE-086E-409D-9B5F-B7AFF2434721),
+		helpstring("SCardDatabaseEx Class")
+	]
+	coclass SCardDatabaseEx
+	{
+		[default] interface ISCardDatabaseEx;
+	};
+};

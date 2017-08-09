@@ -1,0 +1,9 @@
+; GemCardEx.def : Declares the module parameters.
+
+LIBRARY      "GemCardEx.DLL"
+
+EXPORTS
+	DllCanUnloadNow		PRIVATE
+	DllGetClassObject	PRIVATE
+	DllRegisterServer	PRIVATE
+	DllUnregisterServer	PRIVATE

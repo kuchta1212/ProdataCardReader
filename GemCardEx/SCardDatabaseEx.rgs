@@ -1,0 +1,27 @@
+HKCR
+{
+	GemCardEx.SCardDatabaseEx.1 = s 'SCardDatabaseEx Class'
+	{
+		CLSID = s '{CF6EC0CE-086E-409D-9B5F-B7AFF2434721}'
+	}
+	GemCardEx.SCardDatabaseEx = s 'SCardDatabaseEx Class'
+	{
+		CLSID = s '{CF6EC0CE-086E-409D-9B5F-B7AFF2434721}'
+		CurVer = s 'GemCardEx.SCardDatabaseEx.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {CF6EC0CE-086E-409D-9B5F-B7AFF2434721} = s 'SCardDatabaseEx Class'
+		{
+			ProgID = s 'GemCardEx.SCardDatabaseEx.1'
+			VersionIndependentProgID = s 'GemCardEx.SCardDatabaseEx'
+			ForceRemove 'Programmable'
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			val AppID = s '%APPID%'
+			'TypeLib' = s '{F1FF634B-BEDF-461C-A409-5B88E05F5117}'
+		}
+	}
+}
