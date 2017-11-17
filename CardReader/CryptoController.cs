@@ -23,7 +23,10 @@ namespace CardReader
             x509Store.Open(OpenFlags.ReadOnly | OpenFlags.OpenExistingOnly);
             return x509Store.Certificates.Cast<X509Certificate2>().Where(cert => (cert.PublicKey.Key.ToXmlString(false) == pubKeyXml) && cert.HasPrivateKey).Select(cert => new CryptoData()
             {
-                CertData = BitConverter.ToString(cert.GetRawCertData()), XmlPublicKey = cert.PublicKey.Key.ToXmlString(false)
+                CertData = BitConverter.ToString(cert.GetRawCertData()),
+                XmlPublicKey = cert.PublicKey.Key.ToXmlString(false),
+                Cert = cert
+
             }).FirstOrDefault();
         }
     }

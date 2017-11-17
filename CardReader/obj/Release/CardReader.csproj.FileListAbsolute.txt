@@ -10,3 +10,15 @@ D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Release\CardReader.Properties
 D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Release\CardReader.csproj.GenerateResource.Cache
 D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Release\CardReader.exe
 D:\PRODATA\CardReader\Smartcard_API\CardReader\obj\Release\CardReader.pdb
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\bin\Release\CardReader.exe.config
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\obj\Release\CardReader.exe
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\obj\Release\CardReader.pdb
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\bin\Release\CardReader.exe
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\bin\Release\CardReader.pdb
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\bin\Release\GemCard.dll
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\bin\Release\Interop.SCARDSSPLib.dll
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\bin\Release\Interop.GemCardExLib.dll
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\obj\Release\CardReader.csprojResolveAssemblyReference.cache
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\obj\Release\CardReader.CardReaderForm.resources
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\obj\Release\CardReader.Properties.Resources.resources
+D:\PRODATA\CardReader\ProdataCardReader\CardReader\obj\Release\CardReader.csproj.GenerateResource.Cache
